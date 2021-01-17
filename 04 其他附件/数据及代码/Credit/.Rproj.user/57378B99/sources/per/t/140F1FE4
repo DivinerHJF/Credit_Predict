@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554450936330.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3955404362",
+    "id" : "140F1FE4",
+    "lastKnownWriteTime" : 1554534102,
+    "last_content_update" : 1554534102,
+    "path" : "G:/数据报告/大创-违约预测模型/04 其他附件/数据及代码/Credit/数据预处理.R",
+    "project_path" : "数据预处理.R",
+    "properties" : {
+        "cursorPosition" : "11,37",
+        "scrollLine" : "0",
+        "source_window_id" : "",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

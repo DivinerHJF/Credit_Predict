@@ -1,0 +1,8 @@
+weiyue <- read.csv('weiyue.csv')
+names(weiyue)[1] <- "word"
+names(weiyue)[2] <- "freq"
+weiyue <- weiyue[which(weiyue$freq>5),]
+weiyue <- weiyue[which(weiyue$word!="装修"),]
+
+pic = system.file("examples/t.png", package = "wordcloud2")
+wordcloud2(weiyue, figPath = 'weiyue.png',size = 1)
